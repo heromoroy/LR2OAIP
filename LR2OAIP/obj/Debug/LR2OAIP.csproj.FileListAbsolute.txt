@@ -1,0 +1,7 @@
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\bin\Debug\LR2OAIP.exe.config
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\bin\Debug\LR2OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\bin\Debug\LR2OAIP.pdb
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\obj\Debug\LR2OAIP.csprojAssemblyReference.cache
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\obj\Debug\LR2OAIP.csproj.CoreCompileInputs.cache
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\obj\Debug\LR2OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR2OAIP\obj\Debug\LR2OAIP.pdb
